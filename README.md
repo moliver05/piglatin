@@ -39,7 +39,7 @@ A website created with JavaScript, CSS and HTML where a user can submit a word a
 
 * HTML
 * CSS
-ß
+
 ## Support and contact details
 
 _Email no one with any questions, comments, or concerns._
